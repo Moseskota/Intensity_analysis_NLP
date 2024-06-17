@@ -16,4 +16,5 @@ This project explores different machine learning models to classify the intensit
 BERT (Bidirectional Encoder Representations from Transformers) was fine-tuned for this emotion classification task. Due to the smaller dataset size, overfitting was observed despite regularization efforts. The BERT model achieved an average F1-score of 0.794 after hyperparameter tuning.
 
 **Conclusion**
+
 For larger datasets, BERT fine-tuning shows promising results, especially with appropriate regularization techniques. However, based on this study's findings with a smaller dataset, XGBoost emerges as a robust alternative for emotion intensity classification in text.
