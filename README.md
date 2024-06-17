@@ -5,8 +5,11 @@ This project explores different machine learning models to classify the intensit
 **Models Explored**:
 
 **Support Vector Machine** (SVM): Achieved good performance with an average F1-score of 0.768.
+
 **Random Forest**: Showed competitive performance with an average F1-score of 0.757.
+
 **XGBoost**: Outperformed SVM and Random Forest with an average F1-score of 0.781.
+
 **Naive Bayes**: Performed adequately with an average F1-score of 0.717.
 
 **BERT Fine-Tuning**:
